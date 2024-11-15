@@ -1,0 +1,13 @@
+/* style.css */
+
+body {
+    background: linear-gradient(to right, #6a3093, #a044ff, #5);
+    font-family: arial, sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-item: center;
+    height: 100vh;
+}
